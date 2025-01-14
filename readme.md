@@ -13,7 +13,6 @@
 - 「開発環境（XAMPP）」と「本番環境（さくらサーバー）」の切り替え設計
   - 単一の変数($is_local)で環境を切り替えられる
   - https://tips.madoromi.org/detecting-local-environment-in-php/
-- 画像ファイルの安全な管理（アップロードフォルダの適切な権限設定）
 
 ## ④難しかった点・次回トライしたいこと(又は機能)
 - CRUD機能の理解（Create → Read → Update → Deleteの処理をどんな機能に実装するかなど）
